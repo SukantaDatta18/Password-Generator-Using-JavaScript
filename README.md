@@ -8,8 +8,6 @@
 
 A **secure, customizable** password generator built with **HTML, CSS, and JavaScript**. Easily create strong passwords for enhanced security!  
 
-![Password Generator Preview](./assets/preview.png) *(Replace with your screenshot path)*  
-
 ## ✨ Features  
 
 - 🔧 **Customizable Length** (4–32 characters)  
