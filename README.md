@@ -29,8 +29,8 @@ Navigate to project directory:
 
 ```bash
 cd Password-Generator-Using-JavaScript
-Open in browser:
 ```
+Open in browser:
 
 bash
 open `index.html`
