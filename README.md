@@ -26,15 +26,19 @@ A secure password generator with customizable length and character options.
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/SukantaDatta18/Password-Generator-Using-JavaScript.git
-Navigate to project directory: ```
+Navigate to project directory:
+```
 
 bash
+```
 cd Password-Generator-Using-JavaScript
 Open in browser:
+```
 
 bash
-open index.html
+open `index.html`
 🏗️ Project Structure
+```
 Password-Generator/
 ├── index.html          # Main HTML file
 ├── style.css           # All styling
@@ -42,6 +46,8 @@ Password-Generator/
 └── assets/             # (Optional)
     ├── images/         # Screenshots/logo
     └── fonts/          # Custom fonts
+```
+
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
