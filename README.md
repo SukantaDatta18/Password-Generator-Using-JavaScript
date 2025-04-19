@@ -5,8 +5,6 @@
 
 A secure password generator with customizable length and character options.
 
-![Password Generator Preview](./assets/preview.png)
-
 ## ✨ Features
 - 🔒 Generate passwords (8-32 characters)
 - ⚙️ Toggle character types (A-Z, a-z, 0-9, symbols)
@@ -26,17 +24,17 @@ A secure password generator with customizable length and character options.
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/SukantaDatta18/Password-Generator-Using-JavaScript.git
+```
 Navigate to project directory:
-```
 
-bash
-```
+```bash
 cd Password-Generator-Using-JavaScript
 Open in browser:
 ```
 
 bash
 open `index.html`
+
 🏗️ Project Structure
 ```
 Password-Generator/
