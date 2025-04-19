@@ -1,43 +1,42 @@
-# 🔐 Password Generator Using JavaScript  
+# 🔐 JavaScript Password Generator 
+### A secure, customizable password generator with strength indicators
 
-🚀 **Live Demo:** [https://password-generator-using-java-script.vercel.app](https://password-generator-using-java-script.vercel.app)  
+[![Vercel Deployment](https://img.shields.io/badge/🚀_Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://password-generator-using-java-script.vercel.app)
+[![GitHub License](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)](LICENSE)
+[![Open Source](https://img.shields.io/badge/Open_Source-💖-brightgreen?style=for-the-badge)](https://opensource.org)
 
-[![Vercel Deployment](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://vercel.com)  
-[![GitHub License](https://img.shields.io/github/license/SukantaDatta18/Password-Generator-Using-JavaScript?color=blue)](LICENSE)  
-[![GitHub Stars](https://img.shields.io/github/stars/SukantaDatta18/Password-Generator-Using-JavaScript?color=yellow&logo=github)](https://github.com/SukantaDatta18/Password-Generator-Using-JavaScript/stargazers)  
+![Password Generator Preview](./assets/preview.png)
 
-A **secure, customizable** password generator built with **HTML, CSS, and JavaScript**. Easily create strong passwords for enhanced security!  
+## ✨ Features
+- 🛠️ **Customizable length** (8-32 characters)
+- 🔠 **Multiple character types** (Uppercase, Lowercase, Numbers, Symbols)
+- 📋 **One-click copy** functionality
+- 💪 **Visual strength indicator**
+- 🌈 **Clean, modern UI**
+- 📱 **Fully responsive** design
 
-## ✨ Features  
+## 🚀 Quick Start
+1. **Clone the repository:**
+```bash
+git clone https://github.com/SukantaDatta18/Password-Generator-Using-JavaScript.git
+Navigate to project directory:
 
-- 🔧 **Customizable Length** (4–32 characters)  
-- 🔠 **Multiple Character Types** (Uppercase, Lowercase, Numbers, Symbols)  
-- 📋 **One-Click Copy** to clipboard  
-- 🌈 **Visual Strength Indicator**  
-- 📱 **Fully Responsive** (Works on mobile & desktop)  
+bash
+cd Password-Generator-Using-JavaScript
+Open in browser:
 
-## 🛠️ Technologies Used  
-
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-- ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)  
-
-## 🚀 Quick Start  
-
-1. **Clone the repo:**  
-   ```bash
-   git clone https://github.com/SukantaDatta18/Password-Generator-Using-JavaScript.git
-Run locally:
-
-Open index.html in a browser.
-
+bash
+open index.html   # For Mac
+# or
+start index.html  # For Windows
+🛠️ Technologies Used
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"> </p>
 📜 License
-This project is licensed under the MIT License - see LICENSE for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Developer
 Sukanta Datta
 GitHub
-LinkedIn (Add your LinkedIn link)
+Portfolio
 
-⭐ Star this repo if you find it useful! ⭐
+⭐ Feel free to star this repository if you find it useful! ⭐
